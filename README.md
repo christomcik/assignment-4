@@ -12,28 +12,19 @@ Natural convection due to thermal gradients are simulated in a 2D rectangular do
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* MATLAB
+* An operating system: Windows, Linux, MacOS, ...
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* All required files can be downloaded from the assignment-4 repository: https://github.com/christomcik/assignment-4/
+* No modifications are needed to install the program
 
 ### Executing program
 
 * How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+* Open the RayleighBernardConvection.m file with the MATLAB software
+* Run the program
 
 ## Authors
 
