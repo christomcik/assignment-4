@@ -22,13 +22,10 @@ Natural convection due to thermal gradients are simulated in a 2D rectangular do
 
 ### Executing program
 
-* How to run the program
-* Open the RayleighBernardConvection.m file with the MATLAB software
+* Open the RayleighBernardConvection.m file with your MATLAB software
 * Run the program
 
 ## Authors
-
-Contributors names and contact info
 
 Suraj Shankar
 
